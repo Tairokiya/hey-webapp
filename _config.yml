@@ -1,0 +1,8 @@
+title: Tairokiya.GitHub.io
+description: This is the demo on web. A Hey! demonstration.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
