@@ -1,7 +1,7 @@
-title: Tairokiya.GitHub.io
-description: This is the demo on web. A Hey! demonstration.
+title: Barricade
+description: To the barricade! To arm! To arm!
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:
