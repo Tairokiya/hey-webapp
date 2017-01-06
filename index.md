@@ -26,33 +26,24 @@
 
 
 
-##### *声明：不提供下载链接🔗，所有链接均指向官网论坛或豆瓣论坛。      
-    
-     
-    
+##### 
 
-
-### 读书笔记📒  
-
-
+## 读书笔记📒
 
 #### 高效程序员的45个习惯-敏捷开发修炼之道
 
 (20160106-20160106)
 
 [待更新]
-    
-    
-    
 
 
 
 
 
-### 关于我  
-  
-  
-  
+### 关于我
+
+
+
 ```swift
 let 名字 = "达达达" 
 let name = "Mike"
@@ -72,5 +63,6 @@ let criteria = "Never judge; observe."
 
 ### Support or Contact
 
-[Documentation](https://help.github.com/pages)
-[Github Favoured Markdown](https://guides.github.com/features/mastering-markdown/).
+Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have trouble about the markdown content, see [Github Favoured Markdown](https://guides.github.com/features/mastering-markdown/).
+
