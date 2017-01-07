@@ -2,7 +2,7 @@ title: 水槽满了
 description:  洗澡是第一生产力。
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-architect
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
