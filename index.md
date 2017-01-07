@@ -3,8 +3,8 @@
 通常大神们都会在Description里面写两行座右铭，以正三观，改变习惯。于是我想了半天，如是写：
 
 “12点半之前一定要睡觉。”
-
-
+  
+  
 
 ## 2017年的66本书计划
 
@@ -22,14 +22,15 @@
 
 + Practices of an Agile Developer [《高效程序员的45个习惯-敏捷开发修炼之道》](https://book.douban.com/subject/4164024/). Venkat Subramaniam, Andy Hunt, 钱安川[译],郑柯[译]
 
-  ​
 
 ### 📖  已阅  📖
 
 + Practices of an Agile Developer 《高效程序员的45个习惯-敏捷开发修炼之道》. Venkat Subramaniam, Andy Hunt, 钱安川[译],郑柯[译]
 
 
- 
+  
+
+
 
 ## 读书笔记📒
 
@@ -58,8 +59,8 @@ var hobby = [
 let criteria = "Never judge; observe."
 ```
 
-
-
+  
+  
 ## Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
