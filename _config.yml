@@ -1,8 +1,8 @@
-title: Opera House for Digits
-description: Open up your mind, let your fantasies unwind 
+title: 💡 灯房 💡
+description:  程序员说：“有灯还不行，还要有光”
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-slate
+theme: jekyll-theme-Architect
 
 gems:
   - jekyll-mentions
